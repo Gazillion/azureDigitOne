@@ -1,0 +1,10 @@
+
+.DS_Store
+vendor/.DS_Store
+.DS_Store
+vendor/.DS_Store
+vendor/doctrine/.DS_Store
+vendor/knplabs/.DS_Store
+vendor/liip/.DS_Store
+vendor/symfony/.DS_Store
+vendor/twig/.DS_Store
